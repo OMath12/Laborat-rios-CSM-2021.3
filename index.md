@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Codificação de Sinais Multimídia
+#### Prof° Mario Minami
+
+## Grupo 4
 
 You can use the [editor on GitHub](https://github.com/OMath12/Laborat-rios-CSM-2021.3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
