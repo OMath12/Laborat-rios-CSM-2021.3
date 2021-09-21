@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <th>Lab</th>
+    <th>Laboratório</th>
     <th>Link</th>
   </tr>
  <tr>
