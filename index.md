@@ -15,4 +15,3 @@
     <th>Contact</th>
     <th>Country</th>
   </tr>
-  <tr>
