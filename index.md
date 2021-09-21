@@ -1,7 +1,7 @@
 # Codificação de Sinais Multimídia
 #### Prof° Mario Minami
   
-  ## Grupo 4
+## Grupo 4
 
 ##### &#10004; Membro 1 
 ##### &#10004; Membro 2 
