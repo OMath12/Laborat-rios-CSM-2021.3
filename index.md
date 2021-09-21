@@ -3,7 +3,7 @@
 
 ## Grupo 4
 
-<p>&#10004; Membro 1</p>
+&#10004; Membro 1
 <p>&#10004; Membro 2</p>
 <p>&#10004; Membro 3</p>
 <p>&#10004; Membro 4</p>
